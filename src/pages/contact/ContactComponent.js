@@ -25,10 +25,15 @@ class Contact extends Component {
           <Fade bottom duration={1000} distance="40px">
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
-                {/* <img
-                  src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
-                  alt=""
-                /> */}
+                <img
+                  src="Colleen_bridgesface.jpg"
+                  style={{
+                    height: "100%",
+                    width: "80%",
+                    borderRadius: "75px",
+                    margin: "30px",
+                  }}
+                />
               </div>
               <div className="contact-heading-text-div">
                 <h1
