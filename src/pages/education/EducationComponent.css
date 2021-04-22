@@ -21,7 +21,10 @@
 }
 
 .heading-text-div {
+  justify-content: center;
+  align-items: center;
   text-align: center;
+  font-size: 5rem;
 }
 
 .heading-img-div > * {

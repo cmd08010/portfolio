@@ -1,4 +1,5 @@
 /* header */
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
 
 .header {
   display: block;
@@ -33,13 +34,13 @@
 .header .logo {
   display: block;
   float: left;
-  font-size: 1.5em;
+  font-size: 2em;
   text-decoration: none;
   margin-top: 10px;
   line-height: normal;
 }
 .header .logo-name {
-  font-family: "Agustina Regular";
+  font-family: "Satisfy";
   font-weight: bold;
   padding: 0 10px;
   /* color: #55198b; */

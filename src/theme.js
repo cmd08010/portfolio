@@ -80,7 +80,7 @@ export const pinkTheme = {
   imageHighlight: "#ef476f",
   compImgHighlight: "#E6E6E6",
   jacketColor: "#8d99ae",
-  headerColor: "#ef476f77",
+  headerColor: "#f476f77",
 };
 
 export const violetTheme = {
@@ -119,4 +119,16 @@ export const orangeTheme = {
   headerColor: "#FF6B3577",
 };
 
-export const chosenTheme = blueTheme;
+export const paletteTheme = {
+  body: "#fff1e6",
+  text: "#69626d",
+  highlight: "#ddbea9",
+  dark: "#533747",
+  secondaryText: "#5f506b",
+  imageHighlight: "#ddbea9b",
+  compImgHighlight: "#f7d1bf",
+  jacketColor: "#f0efeb",
+  headerColor: "#f7d1bf",
+};
+
+export const chosenTheme = paletteTheme;

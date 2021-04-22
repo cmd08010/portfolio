@@ -25,6 +25,7 @@
   src: local("Google Sans Italic"),
     url("./assests/fonts/GoogleSans-Italic.ttf") format("woff");
 }
+
 @font-face {
   font-family: "Google Sans Medium";
   src: local("Google Sans Medium"),
