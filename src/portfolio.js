@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I am an action-biased software developer looking for a new challenge with a tech-forward innovative team. I love finding creative solutions and thinking out of the box to solve problems. I focus on organization and am very detail oriented. I have a passion for learning new technologies and building my knowledge-base.",
   resumeLink:
-    "https://drive.google.com/file/d/1GnCTEtzMIGpmW6B1p2mKvrZeGdA_XJ9m",
+    "https://drive.google.com/file/d/1Dlq5PKRHBcykYMVE9ooMgNefDd-Q4E1T/view?usp=sharing",
   portfolio_repository: "https://github.com/cmd08010/portfolio",
 };
 
