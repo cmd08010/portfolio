@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "874c3af8cc3ff0b76ae2b04ac05ba39b",
+    "revision": "71b0470dfa06fc9bb58551842808cfde",
     "url": "/index.html"
   },
   {
-    "revision": "dbf1a6b05769437c5f8b",
+    "revision": "ccc088db05a62d720b3a",
     "url": "/static/css/main.f7a6893d.chunk.css"
   },
   {
-    "revision": "571738722609d0bc5c34",
-    "url": "/static/js/2.9d80a322.chunk.js"
+    "revision": "1fa3896c7ba2ce7056f7",
+    "url": "/static/js/2.32d17a8f.chunk.js"
   },
   {
-    "revision": "dbf1a6b05769437c5f8b",
-    "url": "/static/js/main.ef821a78.chunk.js"
+    "revision": "ccc088db05a62d720b3a",
+    "url": "/static/js/main.66e1c778.chunk.js"
   },
   {
     "revision": "1eca90f2cdaa2ecb7d93",
     "url": "/static/js/runtime-main.57e2d255.js"
+  },
+  {
+    "revision": "b627f2194442a6e80f42dd7071e34a62",
+    "url": "/static/media/182367.b627f219.svg"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -228,8 +232,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/projects_image.f7964c6b.svg"
   },
   {
+    "revision": "3b910efaeda15de3d70a32cbe8f2a1c8",
+    "url": "/static/media/prudential-7.3b910efa.svg"
+  },
+  {
     "revision": "bd5f4148a754968cb4444206539c565c",
     "url": "/static/media/pwa.bd5f4148.png"
+  },
+  {
+    "revision": "332c1bd68d7d19367a1d8199b9167206",
+    "url": "/static/media/snhu.332c1bd6.png"
   },
   {
     "revision": "da0e7c80b90df28dd3a590c80f3d4970",
@@ -242,6 +254,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
     "url": "/static/media/talksCardBackAlt.b48e86c9.svg"
+  },
+  {
+    "revision": "6873ab53a1968901d7429b74a6775615",
+    "url": "/static/media/uconn-logo.6873ab53.png"
   },
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
