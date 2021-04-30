@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e98ed83d7b0f01274d08c9313adeeeda",
+    "revision": "5ff77fca400b8c0621f3f5a323e732e7",
     "url": "/index.html"
   },
   {
-    "revision": "bef65de5096d20f9c829",
+    "revision": "70b701f18f57b6435ec7",
     "url": "/static/css/main.f7a6893d.chunk.css"
   },
   {
-    "revision": "1fa3896c7ba2ce7056f7",
-    "url": "/static/js/2.32d17a8f.chunk.js"
+    "revision": "8ea6cad98714b6c21528",
+    "url": "/static/js/2.539b252c.chunk.js"
   },
   {
-    "revision": "bef65de5096d20f9c829",
-    "url": "/static/js/main.1cdc6b94.chunk.js"
+    "revision": "70b701f18f57b6435ec7",
+    "url": "/static/js/main.e2e87907.chunk.js"
   },
   {
     "revision": "1eca90f2cdaa2ecb7d93",
@@ -172,6 +172,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/feelingProud.a73310ea.svg"
   },
   {
+    "revision": "51ac01f28ca526b3d3e8ce0bc9d5b320",
+    "url": "/static/media/fidelity-logo-transparent.51ac01f2.png"
+  },
+  {
     "revision": "589bec7d632ecff9672dc4da97897bbd",
     "url": "/static/media/fullstack.589bec7d.svg"
   },
@@ -262,5 +266,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "63594301e4c1ee9241df24b255f9daf3",
+    "url": "/static/media/unitedhealthcare-logo.63594301.png"
   }
 ]);

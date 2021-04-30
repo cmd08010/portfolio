@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.f7a6893d.chunk.css",
-    "main.js": "/static/js/main.1cdc6b94.chunk.js",
-    "main.js.map": "/static/js/main.1cdc6b94.chunk.js.map",
+    "main.js": "/static/js/main.e2e87907.chunk.js",
+    "main.js.map": "/static/js/main.e2e87907.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.57e2d255.js",
     "runtime-main.js.map": "/static/js/runtime-main.57e2d255.js.map",
-    "static/js/2.32d17a8f.chunk.js": "/static/js/2.32d17a8f.chunk.js",
-    "static/js/2.32d17a8f.chunk.js.map": "/static/js/2.32d17a8f.chunk.js.map",
+    "static/js/2.539b252c.chunk.js": "/static/js/2.539b252c.chunk.js",
+    "static/js/2.539b252c.chunk.js.map": "/static/js/2.539b252c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bf89d5441c8f6ccb8bbddff50f93c8ac.js": "/precache-manifest.bf89d5441c8f6ccb8bbddff50f93c8ac.js",
+    "precache-manifest.f69ea5dd46bf5a39430f9e17924e074e.js": "/precache-manifest.f69ea5dd46bf5a39430f9e17924e074e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f7a6893d.chunk.css.map": "/static/css/main.f7a6893d.chunk.css.map",
     "static/media/182367.svg": "/static/media/182367.b627f219.svg",
@@ -28,6 +28,7 @@
     "static/media/experience.svg": "/static/media/experience.85d6957f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
     "static/media/feelingProud.svg": "/static/media/feelingProud.a73310ea.svg",
+    "static/media/fidelity-logo-transparent.png": "/static/media/fidelity-logo-transparent.51ac01f2.png",
     "static/media/fullstack.svg": "/static/media/fullstack.589bec7d.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.ba18401b.png",
     "static/media/github_logo.png": "/static/media/github_logo.e64de169.png",
@@ -50,12 +51,13 @@
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.0288c5ec.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.b48e86c9.svg",
     "static/media/uconn-logo.png": "/static/media/uconn-logo.6873ab53.png",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg",
+    "static/media/unitedhealthcare-logo.png": "/static/media/unitedhealthcare-logo.63594301.png"
   },
   "entrypoints": [
     "static/js/runtime-main.57e2d255.js",
-    "static/js/2.32d17a8f.chunk.js",
+    "static/js/2.539b252c.chunk.js",
     "static/css/main.f7a6893d.chunk.css",
-    "static/js/main.1cdc6b94.chunk.js"
+    "static/js/main.e2e87907.chunk.js"
   ]
 }
