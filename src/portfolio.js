@@ -212,7 +212,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have a vast array of different work and volunteer experiences. From working at Prudential assisting with ",
+    "I have a vast array of different work and volunteer experiences. From working at large corporations to teaching English in another country, I have gained an interesting perspective on life and all the challenges and opportunites that come along with it.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -268,7 +268,6 @@ const experience = {
           • Revised and updated the employee training programs including interviewing potential applicants.
           • Utilized IT, call center, and clerical skills to support all actions of the organization.
           • Participated in university wide committees to improve the Division of Student Affairs.
-
           `,
           color: "#0879bf",
         },
@@ -281,7 +280,7 @@ const experience = {
           title: "Software Developer Intern,",
           company: "fliiTree",
           company_url: "https://fliitree..com/",
-          logo_path: "legato_logo.png",
+          logo_path: "google_logo.png",
           duration: "July 2020 - Present",
           location: "",
           description:
