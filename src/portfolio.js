@@ -157,7 +157,7 @@ const degrees = {
     {
       title: "General Assembly",
       subtitle: "Software Engineering Immersive Fellow",
-      logo_path: "uconnicon.jpeg",
+      logo_path: "182367.svg",
       alt_name: "GA",
       duration: "January 2021 - April 2021",
       descriptions: [
@@ -165,15 +165,30 @@ const degrees = {
         "⚡ Participated on numerous teams to design, develop, maintain and test applications, coordinate project planning, and perform code reviews and using pair programming, continuous integration and agile software development methodologies.",
         "⚡ Utilized numerous Front-end and Back-end Frameworks/Libraries, RESTFul APIS, Databases and Database tools to create projects and meet deadline driven milestones",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://generalassemb.ly/",
+    },
+    {
+      title: "Southern New Hampshire University",
+      subtitle: "MS in Data Analytics",
+      logo_path: "snhu.png",
+      alt_name: "SNHU",
+      duration: "2018-present",
+      descriptions: ["⚡ Studied Data Analytics"],
+      website_link: "https://uconn.edu/",
     },
     {
       title: "University of Connecticut",
       subtitle: "BS in Actuarial Science",
-      logo_path: "uconnicon.jpeg",
+      logo_path: "uconn-logo.png",
       alt_name: "UConn",
       duration: "2008-2013",
-      descriptions: ["⚡ Studied actuarial science."],
+      descriptions: [
+        "Relevant Coursework:",
+        "⚡   Actuarial Modeling and Financial Mathematics",
+        "⚡   Risk Management and Insurance",
+        "⚡    Technical Writing for Actuaries",
+        "⚡   Actuarial Statistics/ Statistical Analysis",
+      ],
       website_link: "https://uconn.edu/",
     },
   ],
@@ -207,24 +222,43 @@ const experience = {
           title: "eService Support Team Member/Training Facilitator,",
           company: "Prudential",
           company_url: "https://prudential.com/",
+          logo_path: "prudential-7.svg",
+          duration: "2016 - 2019",
+          location: "Jacksonville, Fl",
+          description: [
+            "• Worked with software developers to translate user feedback into technical goals to integrate new features and improve the software development process based on business requirements.",
+            "• Analyzed and mined data to examine trends in Prudential.com site usage.",
+            "• Completed testing for all web related and Interactive Voice Response (IVR) related system releases and updates including troubleshooting and resolving all issues before new releases were pushed to a production environment.",
+            "• Received a company-wide award in 2018 for developing a new program to improve cross-site processes, reduce paper-waste and save ~$70k and ~30 work hours per quarter.",
+            "• Traveled to overseas vendor location to provide training for 30+ employees and supervise the onboarding process.",
+          ],
+          color: "#0879bf",
+        },
+        {
+          title: "Customer Care Advocate",
+          company: "United Health Group",
+          company_url: "https://prudential.com/",
+          logo_path: "legato_logo.png",
+          duration: "2014-2015",
+          location: "Jacksonville, Fl",
+          description: `• Managed escalated cases which involved routine case follow up and communicating with doctor’s offices, facilities, insurance companies and brokers to resolve any member account issues.
+            • Reviewed member accounts to ensure accurate claim processing, medical billing practices, and insurance regulations.`,
+          color: "#0879bf",
+        },
+        {
+          title: "eService Support Team Member/Training Facilitator,",
+          company: "Prudential",
+          company_url: "https://prudential.com/",
           logo_path: "legato_logo.png",
           duration: "May 2016 - Oct 2019",
           location: "Jacksonville, Fl",
-          description:
-            "Worked with software developers to translate user feedback into technical goals to integrate new features and improve the software development process based on business requirements Analyzed and mined data to examine trends in Prudential.com site usage Completed testing for all web related and Interactive Voice Response (IVR) related system releases and updates including troubleshooting and resolving all issues before new releases were pushed to a production environmentReceived a company-wide award in 2018 for developing a new program to improve cross-site processes, reduce paper-waste and save ~$70k and ~30 work hours per quarter Traveled to overseas vendor location to provide training for 30+ employees and supervise the onboarding process.",
+          description: `• Worked with software developers to translate user feedback into technical goals to integrate new features and improve the software development process based on business requirements.
+          • Analyzed and mined data to examine trends in Prudential.com site usage.
+          • Completed testing for all web related and Interactive Voice Response (IVR) related system releases and updates including troubleshooting and resolving all issues before new releases were pushed to a production environment.
+          • Received a company-wide award in 2018 for developing a new program to improve cross-site processes, reduce paper-waste and save ~$70k and ~30 work hours per quarter.
+          • Traveled to overseas vendor location to provide training for 30+ employees and supervise the onboarding process.`,
           color: "#0879bf",
         },
-        // {
-        //   title: "Android and ML Developer",
-        //   company: "Muffito Incorporation",
-        //   company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-        //   logo_path: "muffito_logo.png",
-        //   duration: "May 2018 - Oct 2018",
-        //   location: "Pune, Maharashtra",
-        //   description:
-        //     "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-        //   color: "#9b1578",
-        // }
       ],
     },
     {
