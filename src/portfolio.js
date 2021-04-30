@@ -237,26 +237,39 @@ const experience = {
         {
           title: "Customer Care Advocate",
           company: "United Health Group",
-          company_url: "https://prudential.com/",
-          logo_path: "legato_logo.png",
+          company_url: "https://www.uhc.com/",
+          logo_path: "unitedhealthcare-logo.png",
           duration: "2014-2015",
-          location: "Jacksonville, Fl",
+          location: "Hooksett, NH",
           description: `• Managed escalated cases which involved routine case follow up and communicating with doctor’s offices, facilities, insurance companies and brokers to resolve any member account issues.
             • Reviewed member accounts to ensure accurate claim processing, medical billing practices, and insurance regulations.`,
           color: "#0879bf",
         },
         {
-          title: "eService Support Team Member/Training Facilitator,",
-          company: "Prudential",
-          company_url: "https://prudential.com/",
-          logo_path: "legato_logo.png",
-          duration: "May 2016 - Oct 2019",
-          location: "Jacksonville, Fl",
-          description: `• Worked with software developers to translate user feedback into technical goals to integrate new features and improve the software development process based on business requirements.
-          • Analyzed and mined data to examine trends in Prudential.com site usage.
-          • Completed testing for all web related and Interactive Voice Response (IVR) related system releases and updates including troubleshooting and resolving all issues before new releases were pushed to a production environment.
-          • Received a company-wide award in 2018 for developing a new program to improve cross-site processes, reduce paper-waste and save ~$70k and ~30 work hours per quarter.
-          • Traveled to overseas vendor location to provide training for 30+ employees and supervise the onboarding process.`,
+          title: "Defined Contribution Specialist",
+          company: "Fidelity",
+          company_url: "https://fidelity.com/",
+          logo_path: "fidelity-logo-transparent.png",
+          duration: "2013-2014",
+          location: "Merrimack, NH",
+          description: `• Provided outstanding customer service to inbound callers while educating and responding to their inquiries and requests on employee benefit plans`,
+          color: "#0879bf",
+        },
+        {
+          title: "Student Manager",
+          company: "UConn",
+          company_url: "https://uconn.edu",
+          logo_path: "uconn-logo.png",
+          duration: "2009-2013",
+          location: "Storrs, CT",
+          description: `• Promoted steadily five times from an entry level position to running a shop of 80 employees.
+          • Documented and improved implementation of troubleshooting processes.
+          • Troubleshooted and resolved user issues over the phone and in person
+          • Revised and updated the employee training programs including interviewing potential applicants.
+          • Utilized IT, call center, and clerical skills to support all actions of the organization.
+          • Participated in university wide committees to improve the Division of Student Affairs.
+
+          `,
           color: "#0879bf",
         },
       ],
